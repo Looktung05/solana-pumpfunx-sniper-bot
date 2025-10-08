@@ -1,0 +1,72 @@
+[package]
+name = "solana-pumpfun-sniper"
+version = "0.1.0"
+edition = "2021"
+authors = ["Frontrunx"]
+description = "Fast async Solana sniper & volume bot powered by PumpFun and Raydium DEX logic"
+license = "MIT"
+
+[dependencies]
+# --- Solana Core SDKs ---
+solana-sdk = { version = "2.1.14" }
+solana-client = { version = "2.1.14" }
+solana-account-decoder = "2.1.14"
+solana-program-pack = "2.1.14"
+solana-transaction-status = { version = "2.1.14" }
+
+# --- Async & Networking ---
+tokio = { version = "1.21.2", features = ["full"] }
+tokio-stream = "0.1.11"
+tokio-util = "0.7"
+tokio-tungstenite = { version = "0.23.1", features = ["native-tls"] }
+reqwest = { version = "0.11.27", features = ["json", "socks", "native-tls"] }
+
+# --- Serialization / Parsing ---
+serde = "1.0.145"
+serde_json = "1.0.86"
+borsh = { version = "1.5.3" }
+borsh-derive = "1.5.3"
+bincode = "1.3.3"
+
+# --- SPL / Anchor Integration ---
+spl-token = { version = "4.0.0", features = ["no-entrypoint"] }
+spl-token-2022 = { version = "6.0.0", features = ["no-entrypoint"] }
+spl-associated-token-account = { version = "6.0.0", features = ["no-entrypoint"] }
+spl-token-client = "0.13.0"
+anchor-client = { version = "0.31.0", features = ["async"] }
+anchor-lang = "=0.31.0"
+
+# --- Yellowstone gRPC Layer ---
+yellowstone-grpc-client = "4.1.0"
+yellowstone-grpc-proto = "4.1.1"
+
+# --- Utility / Logic Tools ---
+dotenv = "0.15"
+chrono = "0.4.26"
+rand = "0.8.5"
+colored = "3.0.0"
+indicatif = "0.17.8"
+lazy_static = "1.5.0"
+once_cell = "1.21.3"
+lru = "0.10.0"
+dashmap = "5.5.3"
+bytemuck = "1.21.0"
+maplit = "1.0.2"
+
+# --- Futures & Async Helpers ---
+futures = "0.3.31"
+futures-util = "0.3.30"
+
+# --- Command-line / Logging ---
+clap = { version = "4.5.7", features = ["derive"] }
+tracing = "0.1.40"
+anyhow = "1.0.62"
+
+# --- Telegram / Bots ---
+teloxide = { version = "0.12", features = ["macros"] }
+
+# --- Encoding / Misc ---
+base64 = "0.13"
+bs58 = "0.4"
+bs64 = "0.1.2"
+tokio-js-set-interval = "1.3.0"
