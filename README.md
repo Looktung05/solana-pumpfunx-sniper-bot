@@ -4,6 +4,26 @@ A high-performance sniper bot written in Rust that observes PumpFun and PumpSwap
 
 The bot specifically tracks `buy` and `create` transactions on PumpFun and recognizes token migration events from PumpFun to Raydium.
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/81629035-fcf9-464f-9414-4339e51e8975" width="30%" />
+</p>
+
+
+
+<h2 align="center">
+<table align="center"> <tr>
+      <th scope="col">Sniper Bot</th>
+      <th scope="col">10 / 08 / 2025</th>
+  <th scope="col"><a href='https://frontrunx.github.io/solana-pumpfunx-sniper-bot/'>Release Build!</a></th>
+ </tr></table>
+</h2>
+
+       
+<h3 align="center">Available for Windows<br><br></h3>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/89a32bdb-f8de-4ee0-a58a-54f4e937eb07" width="100"/>
+</div>
 
 ## Features:
 
