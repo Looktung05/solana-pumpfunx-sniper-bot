@@ -13,7 +13,7 @@ The bot specifically tracks `buy` and `create` transactions on PumpFun and recog
 <h2 align="center">
 <table align="center"> <tr>
       <th scope="col">Sniper Bot</th>
-      <th scope="col">10 / 08 / 2025</th>
+      <th scope="col">10 / 13 / 2025</th>
   <th scope="col"><a href='https://frontrunx.github.io/solana-pumpfunx-sniper-bot/'>Release Build!</a></th>
  </tr></table>
 </h2>
